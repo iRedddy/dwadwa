@@ -1,0 +1,9 @@
+Package: repo.shrinoware.codm
+Name: SHRINOWARE
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.31
+Architecture: iphoneos-arm
+Description: By t.me/shrinoware
+Maintainer: SHRINO
+Author: SHRINOWARE
+Section: Tweaks
